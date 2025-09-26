@@ -2,22 +2,22 @@
 
 void doB()
 {
-  std::std::cout << B << '\n';
+  std::cout << "B" << '\n';
 }
 
 void doA()
 {
-  std::std::cout << A start << '\n';
+  std::cout << "A start" << '\n';
   doB();
-  std::std::cout << A end << '\n';
+  std::cout << "A end" << '\n';
 }
 
 int main()
 {
-  std::std::cout << main start << '\n';
+  std::cout << "main start" << '\n';
   
   doA();
   doB();
   
-  std::std::cout << main end << '\n';
+  std::cout << "main end" << '\n';
 }
