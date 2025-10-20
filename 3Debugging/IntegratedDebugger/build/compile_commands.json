@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/moje rzeczy/Code/C++/Nauka/LearnCpp/3Debugging/6IntegratedDebugger/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/IntegratedDebugger.dir/includes_CXX.rsp -Wall -fdiagnostics-color=always -g -ggdb -pedantic-errors -Weffc++ -Wextra -Wconversion -Wsign-conversion -Werror -g -std=c++23 -o CMakeFiles\\IntegratedDebugger.dir\\src\\main.cpp.obj -c \"D:\\moje rzeczy\\Code\\C++\\Nauka\\LearnCpp\\3Debugging\\6IntegratedDebugger\\src\\main.cpp\"",
+  "file": "D:/moje rzeczy/Code/C++/Nauka/LearnCpp/3Debugging/6IntegratedDebugger/src/main.cpp",
+  "output": "CMakeFiles/IntegratedDebugger.dir/src/main.cpp.obj"
+}
+]

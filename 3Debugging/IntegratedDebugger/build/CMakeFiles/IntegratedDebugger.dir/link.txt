@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\IntegratedDebugger.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\IntegratedDebugger.dir/objects.a @CMakeFiles\IntegratedDebugger.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -Wall -fdiagnostics-color=always -g -ggdb -pedantic-errors -Weffc++ -Wextra -Wconversion -Wsign-conversion -Werror -g -Wl,--whole-archive CMakeFiles\IntegratedDebugger.dir/objects.a -Wl,--no-whole-archive -o IntegratedDebugger.exe -Wl,--out-implib,libIntegratedDebugger.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\IntegratedDebugger.dir\linkLibs.rsp
